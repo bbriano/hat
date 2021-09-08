@@ -49,3 +49,5 @@ Tested on 201 files with a sum of 286,278 characters (all times are in ms).
 |-------------|------|------|------|------|
 | Classic Hat | 3816 | 4087 | 3892 | 3932 |
 | Hat         | 110  | 115  | 120  | 115  |
+
+34x speed improvement over Classic Hat.
